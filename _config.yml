@@ -12,13 +12,12 @@ permalinks: pretty
 highlighter: pygments
 
 collections:
-  - recipes
-  - reviews
-
-render:
-  - recipes
-  - reviews
-
+  recipes:
+    output: true
+    title: Recipes
+  reviews:
+    output: true
+    title: Reviews
 
 authors:
   alice:
