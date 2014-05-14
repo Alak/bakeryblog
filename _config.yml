@@ -1,0 +1,32 @@
+# Site settings
+name: A's recipes
+title: A's recipes home
+email: alak.me@gmail.com
+description: "Some of my awsome recipes"
+baseurl: /bakeryblog
+
+# Build settings
+markdown: kramdown
+permalinks: pretty
+#markdown: redcarpet
+highlighter: pygments
+
+collections:
+  recipes:
+    output: true
+  reviews:
+    output: true
+
+
+authors:
+  alice:
+    name: Alice Windels
+    display_name: Alice
+    email: windels.alice@gmail.com
+    twitter: company
+  alak:
+    name: Kevin Cathaly
+    display_name: Alak
+    gravatar: 12e480a364a5c19214f99b4dfe9a11d5
+    email: alak.me@gmail.com
+    twitter: alakme
