@@ -14,8 +14,10 @@ highlighter: pygments
 collections:
   recipes:
     output: true
+    title: Recipes
   reviews:
     output: true
+    title: Reviews
 
 
 authors:
