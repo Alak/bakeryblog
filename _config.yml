@@ -3,7 +3,7 @@ name: A's recipes
 title: A's recipes home
 email: alak.me@gmail.com
 description: "Some of my awsome recipes"
-baseurl: /bakeryblog
+#baseurl: /bakeryblog
 
 # Build settings
 markdown: kramdown
