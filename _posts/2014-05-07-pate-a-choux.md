@@ -5,7 +5,7 @@ image: /banners/choux.png
 author: alak
 date: 2014-05-07
 categories: patisserie
-tags: [ patisserie, pâte, base ]
+tags: [ pâte, base ]
 level: "***"
 ---
 
