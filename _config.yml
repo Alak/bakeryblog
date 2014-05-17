@@ -8,7 +8,6 @@ baseurl: /bakeryblog
 # Build settings
 markdown: kramdown
 permalinks: pretty
-#markdown: redcarpet
 highlighter: pygments
 
 collections:
