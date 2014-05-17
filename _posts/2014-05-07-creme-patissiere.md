@@ -3,7 +3,8 @@ layout: recipe
 title: Pâte à Choux
 image: /banners/choux.png
 author: alak
-date: "2014-05-09"
+date: 2014-05-07
+categories: patisserie
 tags: [ patisserie, pâte, base ]
 level: "***"
 ---

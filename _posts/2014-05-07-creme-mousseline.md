@@ -2,8 +2,8 @@
 layout: recipe
 title: Crème mousseline
 author: alak
-date: "2014-05-07"
-categories: [ patisserie, crème, base ]
+date: 2014-05-07
+categories: patisserie
 ---
 Makes about 15 small cookies.
 
