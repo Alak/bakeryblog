@@ -6,7 +6,7 @@ author: alak
 date: 2014-05-07
 categories: patisserie
 tags: [ pâte, base ]
-level: "***"
+level: "**"
 ---
 
 ## Présentation
