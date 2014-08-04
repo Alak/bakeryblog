@@ -1,11 +1,11 @@
 ---
 layout: recipe
-title: Crème Mousseline
+title: Glace Stracciatella
 author: alak
-date: 2014-05-07
+date: 2014-08-04
 categories: patisserie
-tags: [ crème, base ]
-level: "***"
+tags: [ glace ]
+level: "**"
 ---
 
 ## Présentation

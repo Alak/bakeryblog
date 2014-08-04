@@ -1,7 +1,6 @@
 ---
 layout: recipe
-title: Crème patissière
-/*image: /banners/choux.png*/
+title: Crème Patissière
 author: alak
 date: 2014-05-07
 categories: patisserie

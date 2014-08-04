@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Pâte à Choux
+title: Pâte à Choux Plaza Athénée
 image: /banners/choux.png
 author: alak
 date: 2014-08-03
