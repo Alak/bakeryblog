@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Tarte Citron Fraise & Basilic
+serving: 8 persons
 image: 
 author: alak
 date: 2014-11-21
