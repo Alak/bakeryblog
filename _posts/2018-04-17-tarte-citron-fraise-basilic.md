@@ -10,6 +10,8 @@ tags: [ tarte, fraise, citron, basilic ]
 level: "**"
 ---
 
+origin : http://www.pastryfreak.fr/creations/tarte-citron-fraise-basilic/
+
 ## Présentation
 
 --
@@ -40,5 +42,7 @@ level: "**"
 * 8 g de basilic frais ciselé
 * Quelques fraises fraîches
 * Qs de petites feuilles de basilic frais
+
+## Materiel
 
 ## Réalisation
